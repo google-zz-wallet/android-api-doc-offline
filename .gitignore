@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+
+# Eclipse
+.project
+.metadata
+bin/
+local.properties
+.classpath
+.settings/
+.loadpath
